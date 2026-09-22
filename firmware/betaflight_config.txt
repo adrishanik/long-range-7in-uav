@@ -1,0 +1,33 @@
+# Betaflight / MATEKF722SE 4.4.2 CLI Configuration Dump
+# Target: MATEKF722SE
+# Arming & Telemetry Configuration
+
+feature RX_SERIAL
+feature OSD
+feature GPS
+feature TELEMETRY
+
+# Serial Port Mapping
+# UART1: MSP (Caddx Nebula Pro Vista HD display)
+serial 0 1 115200 57600 0 115200
+# UART2: GPS (Matek SAM-M8Q)
+serial 1 2 115200 57600 0 115200
+# UART3: Serial RX (RadioMaster RP1 ExpressLRS)
+serial 2 64 115200 57600 0 115200
+
+# Receiver protocol
+set serialrx_provider = CRSF
+
+# Motor DShot Protocol
+set motor_pwm_protocol = DSHOT600
+
+# GPS Rescue Fail-Safe Configuration
+set gps_rescue_min_sats = 6
+set gps_rescue_return_alt = 35
+set gps_rescue_descent_dist = 40
+set gps_rescue_ground_speed = 1200
+set gps_rescue_throttle_min = 1150
+set gps_rescue_throttle_max = 1650
+set gps_rescue_throttle_hover = 1320
+
+save
