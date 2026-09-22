@@ -1,6 +1,7 @@
 # 7-Inch Long Range HD UAV (ExpressLRS + Digital FPV + 6S Li-ion)
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/adrish-manna/long-range-uav/tree/main/pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/adrishanik/long-range-7in-uav/tree/main/pcb)
+
 ![Tier](https://img.shields.io/badge/Stardance%20Tier-X--Tier%20($578)-purple.svg)
 ![Flight Controller](https://img.shields.io/badge/FC-Matek%20F722--SE-blue.svg)
 ![Video](https://img.shields.io/badge/Video-Caddx%20Nebula%20Pro%20Vista-orange.svg)
