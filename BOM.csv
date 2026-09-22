@@ -1,0 +1,15 @@
+Item #,Component Description,Part / Model,Category,Quantity,Unit Cost (USD),Total (USD),Source / Vendor Link
+1,Main Flight Controller,Matek Systems F722-SE (STM32F722 Dual BEC OSD),MCU,1,55.00,55.00,Robu.in / GetFPV / MakerBazar
+2,Digital HD FPV Camera & VTX,Caddx Nebula Pro Vista Kit (720p 120fps Low-Latency Digital),Sensor,1,150.00,150.00,Caddx / GetFPV
+3,GPS Telemetry & Compass Module,Matek SAM-M8Q GPS Module (U-blox M8Q Engine),Sensor,1,28.00,28.00,Matek Systems / Robu.in
+4,High-Efficiency Brushless Motors,BrotherHobby Avenger 2207.5 1750KV Motors (6S Optimized),Actuator,4,25.00,100.00,BrotherHobby / Robu.in
+5,High-Capacity Li-ion Battery,Molicel P42A 6S 4000mAh Li-ion Pack (Long Endurance),Power,1,95.00,95.00,18650BatteryStore / Robu.in
+6,4-in-1 Brushless Speed Controller,Hobbywing XRotor Micro 45A BLHeli_32 4-in-1 ESC (DShot1200),Module,1,65.00,65.00,Hobbywing / GetFPV
+7,7-inch Carbon Fiber Frame Kit,iFlight XL7 V2 7-inch Long Range Frame Kit,Structural,1,45.00,45.00,iFlight / AliExpress
+8,Long Range Propellers,HQProp / Gemfan 7040 7x4x3 3-Blade Glass-Fiber Propellers (4 Pairs / 2 Sets),Propulsion,2,5.00,10.00,Robu.in / GetFPV
+9,Radio Control Receiver,RadioMaster RP1 2.4GHz ExpressLRS (ELRS) Nano Receiver,Radio Link,1,15.00,15.00,MakerBazar / RadioMaster
+10,Power Harness & Filter Capacitor,14AWG XT60 Pigtail Lead + 35V 470uF Low-ESR Capacitor,Power,1,4.00,4.00,Robu.in / MakerBazar
+11,Propeller Hardware,M5 Low-Profile Flanged CW/CCW Nyloc Motor Locknuts (Set of 4),Hardware,1,3.00,3.00,Robu.in / Amazon
+12,Flight Controller Vibration Isolation,M3 Anti-Vibration Silicone Dampers (Pack of 4),Misc,1,2.00,2.00,Robu.in / Amazon
+13,High-Grip Battery Straps,Kevlar Non-Slip Battery Straps for 6S Pack (2-Pack),Misc,1,6.00,6.00,iFlight / Robu.in
+,,,,,,GRAND TOTAL:,$578.00,Within X-Tier ($600 limit)
